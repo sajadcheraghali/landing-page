@@ -369,4 +369,20 @@ a{
     .section-10-2{
         flex-wrap: wrap;
     }
+      .picture-3{
+        width: 100px;
+        height: 200px;
+        padding-left: 10px;
+    }
+    .picture-4{
+        width: 100px;
+        height: 200px;
+        left: 80px;
+        top: 70px;
+    }
+    .section-5-2{
+        width: 200px;
+        display: flex;
+    padding-left: 0px;
+    }
 }
