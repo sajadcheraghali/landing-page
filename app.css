@@ -321,17 +321,17 @@ a{
         top: 50px;
         position: static;
         margin: auto;
-       max-width: 250px;
+       max-width: 300px;
        min-height: 200px;
     }
     .bar3{
-        max-width: 250px;
+        max-width: 280px;
         flex-wrap: wrap;
     }
     .bar1{
         top: 150px;
         position: static;
-        margin: auto;
+        margin: 30px auto;
     }
     .circule-1{
         display: none;
