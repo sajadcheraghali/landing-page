@@ -311,9 +311,10 @@ a{
         align-items: center;
     }
     .section2-2{
-        max-width: 450px;
+        max-width: 250px;
         justify-content: space-around;
-        flex-wrap: wrap;  
+        flex-wrap: wrap;
+         gap: 20px; 
     }
     .bar4{
         left: 10px;
